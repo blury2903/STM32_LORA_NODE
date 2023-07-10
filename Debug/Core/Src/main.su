@@ -1,0 +1,12 @@
+../Core/Src/main.c:91:6:spi_Transmit	120	static
+../Core/Src/main.c:112:6:i2c_LCD_1	8	static
+../Core/Src/main.c:144:6:i2c_LCD_2	8	static
+../Core/Src/main.c:182:5:main	64	static
+../Core/Src/main.c:307:6:SystemClock_Config	72	static
+../Core/Src/main.c:347:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:381:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:419:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:452:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:485:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:520:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:541:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+pzem004t.c:15:6:init_pzem	3
+pzem004t.c:25:9:readAddress	2
+pzem004t.c:41:6:sendCmd8	4
+pzem004t.c:62:9:checkCRC	2
+pzem004t.c:79:6:setCRC	2
+pzem004t.c:129:10:CRC16	2
+pzem004t.c:143:9:updateValues	2

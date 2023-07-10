@@ -1,0 +1,12 @@
+main.c:91:6:spi_Transmit	1
+main.c:112:6:i2c_LCD_1	1
+main.c:144:6:i2c_LCD_2	1
+main.c:182:5:main	4
+main.c:307:6:SystemClock_Config	3
+main.c:347:13:MX_I2C1_Init	2
+main.c:381:13:MX_SPI1_Init	2
+main.c:419:13:MX_USART1_UART_Init	2
+main.c:452:13:MX_USART2_UART_Init	2
+main.c:485:13:MX_GPIO_Init	1
+main.c:520:6:HAL_UART_RxCpltCallback	3
+main.c:541:6:Error_Handler	1
